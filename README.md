@@ -1,11 +1,16 @@
 # Room Temperature Control with Fuzzy Logic
-This repository contains the implementation of a fuzzy logic-based temperature control system for a room. The system is designed to maintain a comfortable room temperature by controlling the operation of a heating and cooling system.
+This project was developed as part of the course Soft Computing under the supervision of Dr.Bahrololoum at Shahid Bahonar University of Kerman. The aim of the project is to implement a fuzzy logic-based temperature control system that ensures a stable and comfortable environment in a room. Fuzzy logic is particularly well-suited for this application due to its ability to handle uncertainties and approximate reasoning, which are inherent in real-world control systems.
 
 ## Introduction
 The goal of this project is to develop a fuzzy logic-based temperature control system that ensures a stable and comfortable environment in a room. Fuzzy logic is particularly well-suited for this application due to its ability to handle uncertainties and approximate reasoning, which are inherent in real-world control systems.
 
+<img src="https://github.com/user-attachments/assets/96e4a0b9-5e41-4c8a-8b76-ecfb3fcd7139" alt="description" width="400"/>
+
 ## System Overview
 The temperature control system operates by adjusting the flow of warm or cool air through a pump. The fuzzy logic controller processes the temperature difference between the desired setpoint and the current room temperature to determine the appropriate control actions. The controller is capable of responding to temperature variations in a flexible and human-like manner, making it ideal for maintaining a comfortable room environment.
+
+<img src="https://github.com/user-attachments/assets/eeb4d89c-94dd-49f3-a587-da64685ef62e" alt="description" width="200"/>
+<img src="https://github.com/user-attachments/assets/3e39f407-e7d0-48ec-adb5-3dcd5db3bbb5" alt="description" width="200"/>
 
 ## Fuzzy Logic Controller Design
 ### Fuzzy Variables
