@@ -46,6 +46,11 @@ Defuzzification: Converting the fuzzy output into a crisp value to control the p
 Simulation and Results
 The system's performance is simulated to demonstrate its ability to maintain a stable room temperature. The simulation results, including temperature trends and pump actions, are visualized using Matplotlib.
 
+### example of the result 
+
+<img src="https://github.com/user-attachments/assets/625bdf40-128a-46cf-8b66-7162429a9fa6" alt="description" width="300"/>
+<img src="https://github.com/user-attachments/assets/6d8270df-11f5-4980-8b2c-10a95c23c931" alt="description" width="300"/>
+
 ### Requirements
 Python 3.x
 NumPy
