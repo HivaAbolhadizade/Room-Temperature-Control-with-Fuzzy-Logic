@@ -9,8 +9,8 @@ The goal of this project is to develop a fuzzy logic-based temperature control s
 ## System Overview
 The temperature control system operates by adjusting the flow of warm or cool air through a pump. The fuzzy logic controller processes the temperature difference between the desired setpoint and the current room temperature to determine the appropriate control actions. The controller is capable of responding to temperature variations in a flexible and human-like manner, making it ideal for maintaining a comfortable room environment.
 
-<img src="https://github.com/user-attachments/assets/eeb4d89c-94dd-49f3-a587-da64685ef62e" alt="description" width="200"/>
-<img src="https://github.com/user-attachments/assets/3e39f407-e7d0-48ec-adb5-3dcd5db3bbb5" alt="description" width="200"/>
+<img src="https://github.com/user-attachments/assets/eeb4d89c-94dd-49f3-a587-da64685ef62e" alt="description" width="300"/>
+<img src="https://github.com/user-attachments/assets/3e39f407-e7d0-48ec-adb5-3dcd5db3bbb5" alt="description" width="300"/>
 
 ## Fuzzy Logic Controller Design
 ### Fuzzy Variables
