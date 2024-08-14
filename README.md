@@ -13,6 +13,9 @@ The temperature control system operates by adjusting the flow of warm or cool ai
 <img src="https://github.com/user-attachments/assets/3e39f407-e7d0-48ec-adb5-3dcd5db3bbb5" alt="description" width="300"/>
 
 ## Fuzzy Logic Controller Design
+
+<img src="https://github.com/user-attachments/assets/39c51032-8863-43a4-947d-2864793f0198" alt="description" width="300"/>
+
 ### Fuzzy Variables
 The system uses the following fuzzy variables:
 
