@@ -48,10 +48,10 @@ The system's performance is simulated to demonstrate its ability to maintain a s
 
 ### example of the result 
 
-<img src="https://github.com/user-attachments/assets/625bdf40-128a-46cf-8b66-7162429a9fa6" alt="description" width="300"/>
-<img src="https://github.com/user-attachments/assets/6d8270df-11f5-4980-8b2c-10a95c23c931" alt="description" width="300"/>
+<img src="https://github.com/user-attachments/assets/625bdf40-128a-46cf-8b66-7162429a9fa6" alt="description" width="400"/>
+<img src="https://github.com/user-attachments/assets/6d8270df-11f5-4980-8b2c-10a95c23c931" alt="description" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/90f66ffe-f2ee-49fe-8311-6130e980528b" alt="description" width="300"/>
+<img src="https://github.com/user-attachments/assets/90f66ffe-f2ee-49fe-8311-6130e980528b" alt="description" width="400"/>
 
 
 ### Requirements
